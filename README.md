@@ -1,15 +1,47 @@
-Snake Game using Turtle Graphics:
+Snake Game
+A simple Snake Game built using Python and the pygame library. Control the snake, eat food, and grow longer while avoiding collisions!
 
-This project is a classic Snake Game implemented in Python with the Turtle Graphics module. It recreates the nostalgic experience of playing Snake on old keypad phones while showcasing essential programming concepts.
+Demo
+![Screenshot 2025-03-09 175936](https://github.com/user-attachments/assets/372d4f66-6230-4549-bf20-ae0d8a858196)
 
-Key Features:
 
-Gameplay: Use the arrow keys to control the snake as it navigates the play area. Eat food to increase your score and grow longer.
+Features
+✔ Classic Snake Game mechanics
+✔ Score tracking
+✔ Smooth movement using pygame
+✔ Restart functionality
 
-Collision Detection: The game ends if the snake collides with a wall or its own body, displaying a "GAME OVER!" message.
+Installation
+Clone the Repository:
+bash
+  git clone https://github.com/Krdhirendra/Snake_game.git
+  cd Snake_game
 
-Score Tracking: High scores are saved to a CSV file, allowing you to track your achievements between sessions.
+Install Dependencies:
+  pip install turtle
 
-Custom Elements: Leverages custom turtle classes (from the game_turtles module) to draw borders, display scores, and manage game objects.
+Run the Game:
+  python snake.py
 
-Smooth Animation: The snake's movement is updated in a loop with controlled timing to ensure a smooth gaming experience.
+Controls:
+⬆ Up Arrow – Move Up
+⬇ Down Arrow – Move Down
+➡ Right Arrow – Move Right
+⬅ Left Arrow – Move Left
+
+Contributing::
+Want to improve this game? Here’s how you can contribute:
+
+Add New Features – Different game modes, power-ups, or a leaderboard.
+Improve Graphics – Make the game visually appealing with better UI.
+Optimize Performance – Enhance game speed and responsiveness.
+
+To Contribute:
+Fork the repo
+Create a new branch (git checkout -b feature-newfeature)
+Commit your changes (git commit -m "Added new feature")
+Push to GitHub (git push origin feature-newfeature)
+Open a Pull Request
+
+License
+This project is licensed under the MIT License.
