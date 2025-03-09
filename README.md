@@ -6,16 +6,16 @@ Demo
 ![Screenshot 2025-03-09 175936](https://github.com/user-attachments/assets/372d4f66-6230-4549-bf20-ae0d8a858196)
 
 
-Features
+Features:  
 ✔ Classic Snake Game mechanics
 ✔ Score tracking
 ✔ Smooth movement using pygame
 ✔ Restart functionality
 
-Installation
+Installation  
 Clone the Repository:
 bash
-  git clone https://github.com/Krdhirendra/Snake_game.git
+git clone https://github.com/Krdhirendra/Snake_game.git
   cd Snake_game
 
 Install Dependencies:
