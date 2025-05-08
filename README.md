@@ -1,5 +1,5 @@
 Snake Game
-A simple Snake Game built using Python and the pygame library. Control the snake, eat food, and grow longer while avoiding collisions!
+A simple Snake Game built using Python and the Turtle library. Control the snake, eat food, and grow longer while avoiding collisions!
 
 
 Demo
